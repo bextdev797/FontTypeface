@@ -15,4 +15,8 @@ An App Inventor extension that sets the font typeface, font weight and font styl
 
 * **Social:** ContactPicker, EmailPicker, PhoneNumberPicker.
 
+AIA: <a href="https://github.com/bextdev797/FontTypeface/raw/main/FontTypeface.aia">Click Here to Download</a>
+
 The Modification of The Extension is in The Release Section *i updated it because Gordon didn't put updates so better used my modification of the extension when your using this extension*
+
+Unfortunately i didn't tested rest of the components only Button & Label.
