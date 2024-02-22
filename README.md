@@ -3,7 +3,7 @@ An App Inventor extension that sets the font typeface, font weight and font styl
 
 :package: **Package name:** com.brandonang.fonttypeface.aix
 
-:clock1: **Version:** 1
+:clock1: **Version:** Modification
 
 :date: **Release date:** *Original* 2022-03-11 10:00 AM (Asia/Hong_Kong) *Updated* few weeks ago
 
